@@ -12,6 +12,7 @@
 	/* Every p inside a div. */
 	div {
 		background-color: lightgray;
+    padding: 10px;
 
 	}
 
@@ -27,7 +28,7 @@
 	#p1 {
   position: absolute;
   width: 33%;
-  top:  -45px;
+  top:  -35px;
   right: 0px;
   font-size: 28px;
   background-color: lightpink;
@@ -38,8 +39,7 @@
 
 	#p2 {
   position: absolute;
-  width: 33%;
-  top: -45px;
+  top: -35px;
   right: 0px;
   font-size: 28px;
   background-color: orangered;
@@ -52,7 +52,7 @@
 #p3 {
   position: absolute;
   width: 33%;
-  top: -45px;
+  top: -35px;
   right: 0px;
   font-size: 28px;
   background-color: #DEB887;
